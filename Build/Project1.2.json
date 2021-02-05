@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Project 1",
+"dataUrl": "Project1.2.data.unityweb",
+"wasmCodeUrl": "Project1.2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Project1.2.wasm.framework.unityweb",
+"TOTAL_MEMORY": 117440512,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
